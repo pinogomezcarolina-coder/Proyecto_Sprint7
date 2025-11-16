@@ -18,3 +18,5 @@ Esta aplicación web interactiva permite explorar y visualizar datos de venta de
 1. Activar el entorno virtual: `conda activate vehicles_env`
 2. Ejecutar la aplicación: `streamlit run app.py`
 3. Abrir el navegador en la URL que aparece en la terminal
+#Enlace de Render
+https://proyecto-sprint7-hncn.onrender.com/
